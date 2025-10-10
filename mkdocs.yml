@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Lo Willihnganz - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Student Name
 copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
@@ -10,7 +10,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - Home: index.md
-  - About: about/me.md
+  - About: about/me.md "hiii. i'm Lo, i'm an environmental designer from colorado!"
   - Master project:
       - Initial ideas: project/project.md
   - Reflections :
@@ -44,7 +44,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: blue
-    accent: purple
+    accent: white
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
