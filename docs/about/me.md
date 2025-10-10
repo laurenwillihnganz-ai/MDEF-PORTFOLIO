@@ -1,6 +1,6 @@
 # About
 
-![](../images/profile photo.jpg)
+![](../images/profilephoto.jpg)
 
 hiii, im lo. i like to think about people's experiences and how we can relate to eachother. i also love to design for the environment! :P
 
