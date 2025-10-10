@@ -1,6 +1,6 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/profilephoto.jpg)
 
 hiii, im lo. i like to understand people's experiences and how we can relate to eachother. i also love to design for the environment! :P
 
