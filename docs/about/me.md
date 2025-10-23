@@ -4,7 +4,8 @@
 
 
 ABOUT
-Hello! Im' Lo, a Colorado-born artist, designer, and educator with a passion for architecture, environmental design, and cultural integration.
+
+Hello! I'm Lo, a Colorado-born artist, designer, and educator with a passion for architecture, environmental design, and cultural integration.
 
 My interest in design deepened after high school, leading me to study Architecture and Environmental Design at the University of Westminster, where I explored sustainable building practices, urban planning, and community-driven spaces. Throughout my studies, I worked on a range of projects, from small-scale material explorations to large-scale urban interventions, earning recognition for my conceptual and technical work.
 
