@@ -16,5 +16,3 @@ Currently, I'm taking up a degree in Design for Emerging Futures in Barcelona at
 
 Welcome and I hope you enjoy!
 
- **[my website](https://community.emergentfutures.io/courses/5566525/content)**
-
