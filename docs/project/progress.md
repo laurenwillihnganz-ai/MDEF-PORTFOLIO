@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Living with your own ideas
+# Embodied Criticism
 
-This page captures ongoing reflections and development of your master project.
+![](../images/Act1_occupation.png)
 
